@@ -1,8 +1,10 @@
 ---
-layout: single
-title: "About Me"
 permalink: /
+title: "About Me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a researcher at Capital Normal University, focusing on SAR target detection, stroke rehabilitation assessment using multimodal data, and deep learning architectures. 
