@@ -1,8 +1,11 @@
+
 ---
-layout: about
-title: "About Me"
 permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a researcher at Capital Normal University, focusing on SAR target detection, stroke rehabilitation assessment using multimodal data, and deep learning architectures. 
